@@ -1,7 +1,7 @@
 # Makefile para compilar y ejecutar un programa Java
 
 # Nombre del programa Java
-PROGRAM_NAME = bucleswhile
+PROGRAM_NAME = exercise4
 
 # Archivos fuente Java
 SOURCE_FILES = $(wildcard *.java)
