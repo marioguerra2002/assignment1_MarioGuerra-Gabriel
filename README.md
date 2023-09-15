@@ -1,6 +1,6 @@
 # assignment1_MarioGuerra-GabrielFranco
 This is the first assignment of the subject “Algorithm and Advanced Structure Data”. 
-To compile the different experiments, you’ll have to enter into each package and write:
+To compile the different experiments, you’ll have to enter into each package and write: \n
 	javac experient_name.java 
 And next, to run it you need to write:
 	java experiment_name_compiled
